@@ -1,0 +1,101 @@
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	font-size: 10px;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.reveal h6.left-text, .reveal h5.label {
+	font-size: 1.5rem;
+ 	letter-spacing: 5px;
+	margin-bottom: 0rem;
+}
+
+.reveal h5.right-text {
+	font-size: 2rem;
+}
+
+.reveal h1.left-text {
+	font-size: 8rem;
+	margin-bottom: 4rem;
+}
+
+h1.left-text, h2.left-text {
+  line-height: .9;
+}
+
+.reveal h1.line {
+  line-height: .8em;
+}
+
+.left-text {
+  text-align: left;
+  width: 80%;
+}
+
+h1.lower {
+  text-transform: lowercase;
+  font-weight: 900;
+	line-height: 1;
+	padding-top: 1rem;
+  width: 90%
+}
+
+h1.lower, h3.lower {
+  text-transform: lowercase;
+  width: 100%;
+}
+
+.reveal h5 {
+  font-weight: 100;
+}
+
+
+
+.reveal h5.right-text {
+  font-weight: 100;
+  margin-bottom: 0px;
+}
+
+.reveal p.right-text {
+  font-weight: 100;
+  font-size: .5em;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.right-text {
+  text-align: right;
+}
+
+img.height {
+	height: 80vh;
+}
+
+h3.lower {
+	padding-top: 2rem;
+}
+
+.reveal q,
+.reveal blockquote {
+  font-style: normal;
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+.reveal section img {
+  margin: 0 0;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+h1.curious2 {
+	font-weight: 900;
+	font-size: 10rem;
+	line-height: .8em;
+}
